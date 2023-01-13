@@ -3,3 +3,5 @@ Hi Mithul !how are you doing?
 this text is part of branch1
 
 this text is part of branch2
+
+This text is again part of branch1
