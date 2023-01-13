@@ -8,4 +8,4 @@ This text is again part of branch1
 
 This new text is part of branch2, this one too.
 
-Added this line by mistake.
+
