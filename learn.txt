@@ -7,3 +7,9 @@ this text is part of branch2
 This text is again part of branch1
 
 This new text is part of branch2, this one too.
+
+This is new line which was inserted after stash.
+
+lets stash this line.
+
+lets stash one more line. not possible for multistashing so committing this one.
